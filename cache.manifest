@@ -17,7 +17,6 @@ frontend.js
 ftp.js
 goldhen10.html
 goldhen11.html
-test.html
 idu.js
 index.html
 jb.js
@@ -31,9 +30,11 @@ payload.html
 payload.js
 ps4debug755.js
 readme.html
+README.md
 restore.js
 rif-renamer.js
 Style.css
+test.html
 todex.js
 webrte755.js
 common\goldhen10_755.js
@@ -53,6 +54,3 @@ common\mira755.js
 webkit\int64.js
 webkit\ps4.js
 webkit\utils.js
-
-NETWORK:
-*
